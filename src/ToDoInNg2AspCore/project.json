@@ -1,4 +1,8 @@
-﻿{
+{
+  "title": "ToDoInNg2AspCore",
+  "version": "0.0.0",
+  "copyright": "Copyright (c) 2016 Lukasz Jaskiewicz",
+  "description": "ToDoInNg2AspCore",
   "dependencies": {
     "Microsoft.NETCore.App": {
       "version": "1.0.1",
